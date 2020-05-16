@@ -20,6 +20,11 @@ pip install rpyc
 python ./servers/ClassicServer.py
 ```
 * the server listen to port 18830
+* run the client as
+```
+python ./clients/SimpleClient.py
+```
+* watch the message on the server.
 
 ## How to Contribute
 
